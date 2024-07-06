@@ -5,6 +5,7 @@ To build a gender and age detector that can approximately guess the gender and a
 <br>
 About project
 
+
 In this Python Project, I had used open cv library accurately identify the gender and age of a person from a single image of a face. I used the models trained by svm. The predicted gender may be one of ‘Male’ and ‘Female’.
 <br>
 Dataset :
